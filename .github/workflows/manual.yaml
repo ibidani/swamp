@@ -1,4 +1,4 @@
-name: ci
+name: manual-trigger
 on: [workflow_dispatch]
 jobs:
   cibuild:
